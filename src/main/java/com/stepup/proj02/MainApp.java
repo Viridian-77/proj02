@@ -13,5 +13,7 @@ public class MainApp {
 
     public static void doSmth() {
         System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
     }
 }
