@@ -8,6 +8,7 @@ public class MainApp {
         System.out.println("_____");
         System.out.println("Hello World!");
         System.out.println("11101");
+        System.out.println("_____");
         Box box = new Box();
         System.out.println(box.getSize());
     }
