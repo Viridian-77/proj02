@@ -14,8 +14,6 @@ public class MainApp {
     }
 
     public static void doSmth() {
-        System.out.println(0);
-        System.out.println(1);
-        System.out.println(1);
+        System.out.println("Hello, world!");
     }
 }
