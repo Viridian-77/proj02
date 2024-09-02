@@ -5,6 +5,7 @@ package com.stepup.proj02;
  */
 public class MainApp {
     public static void main(String[] args) {
+        System.out.println("_____");
         System.out.println("Hello World!");
         System.out.println("11101");
         Box box = new Box();
@@ -12,8 +13,8 @@ public class MainApp {
     }
 
     public static void doSmth() {
+        System.out.println(0);
         System.out.println(1);
-        System.out.println(2);
-        System.out.println(3);
+        System.out.println(1);
     }
 }
