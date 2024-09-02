@@ -6,6 +6,12 @@ package com.stepup.proj02;
 public class MainApp {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("11111");
+        System.out.println("11101");
+        Box box = new Box();
+        System.out.println(box.getSize());
+    }
+
+    public static void doSmth() {
+        System.out.println(1);
     }
 }
